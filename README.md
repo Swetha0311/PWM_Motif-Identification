@@ -1,8 +1,4 @@
-# Assignment 4
-
 **Author**: Swetha Yadavalli
-
-**Date**: 04/11/2024
 
 **Programming Language**: Python
 
@@ -16,7 +12,7 @@
 
 ## Description
 
-This assignment involves analyzing gene sequences to identify potential binding sites using a Position Weight Matrix (PWM). The scripts process gene sequence data and PWM information to calculate similarity scores and identify the top 30 genes with the highest similarity to the PWM.
+This script involves analyzing gene sequences to identify potential binding sites using a Position Weight Matrix (PWM). The scripts process gene sequence data and PWM information to calculate similarity scores and identify the top 30 genes with the highest similarity to the PWM.
 
 ## Execution Steps
 
